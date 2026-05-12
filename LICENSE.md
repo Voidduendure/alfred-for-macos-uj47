@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with updated Helper for Alfred for macOS - memory-optimization and file-indexing, the #1 helper. Includes memory-optimization and file-indexing for a
 
 
 
